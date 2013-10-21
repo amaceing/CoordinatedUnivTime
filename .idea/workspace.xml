@@ -26,7 +26,7 @@
       <file leaf-file-name="UTC.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UTC.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="21" selection-end="21" vertical-scroll-proportion="0.05629139" vertical-offset="0" max-vertical-offset="604">
+            <state line="181" column="0" selection-start="3633" selection-end="3633" vertical-scroll-proportion="2.9834437" vertical-offset="1275" max-vertical-offset="3196">
               <folding />
             </state>
           </provider>
@@ -264,7 +264,11 @@
       <created>1380865565322</created>
       <updated>1380865565322</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added project">
+      <created>1380865637553</created>
+      <updated>1380865637553</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -307,7 +311,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/UTC.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="21" selection-end="21" vertical-scroll-proportion="0.05629139" vertical-offset="0" max-vertical-offset="604">
+        <state line="181" column="0" selection-start="3633" selection-end="3633" vertical-scroll-proportion="2.9834437" vertical-offset="1275" max-vertical-offset="3196">
           <folding />
         </state>
       </provider>
